@@ -1,0 +1,18 @@
+{
+  "name": "noderestful",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "babel-plugin-transform-flow-strip-types": "6.21.0",
+    "babel-polyfill": "6.20.0",
+    "babel-preset-latest": "6.16.0",
+    "debug": "2.4.5",
+    "gulp": "3.9.1",
+    "gulp-babel": "6.1.2",
+    "gulp-sourcemaps": "1.9.1"
+  },
+  "devDependencies": {
+    "gulp-flowtype": "1.0.0"
+  }
+}
